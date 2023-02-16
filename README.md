@@ -4,6 +4,7 @@ Projekt miał na celu stworzenie prostej Aplikacji Bazodanowej dla bazy danych b
 stworzyłem w jednym z poprzednich projektów.
 
 Aplikacja ma celu pokazać podstawowe funkcje na w moijej bazie, takiej jak dodawanie klienta, 
-dodawanie atrakcji, pokazanie odpowiedniej wycieczki dla danego kraju.
+dodawanie atrakcji, pokazanie odpowiedniej wycieczki dla danego kraju. Zostałą ona stworzona 
+na platformie Oracle APEX, z użyciem języka PL/SQL.
 
-Bardziej szczegółowo swój projekt opisałem w Sprawozdaniu.
+Etapy swojej pracy opisałem w Sprawozdaniu.
